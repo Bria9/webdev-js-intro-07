@@ -42,7 +42,7 @@ To view the project locally, you can either open the project files in your code 
 - [ ] In `assignment.js`:
     - [x] Create a function called `returnTheRemainder` that returns the remainder of the division of two numbers. This function should take in two arguments and return a value.
     - [x] Create a function called `checkIfEven`. This function should return `true` or `false` based on the input.
-    - [ ] Create a function called `getTheFourthElement`. This function should take in the existing array, `lostNumbers`, and return the fourth element of the array.
+    - [x] Create a function called `getTheFourthElement`. This function should take in the existing array, `lostNumbers`, and return the fourth element of the array.
     - [ ] Create the remaining functionality to render your answers.
 
 
