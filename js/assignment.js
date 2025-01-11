@@ -13,3 +13,15 @@ function returnTheRemainder(a,b) {
 }
 
 console.log(returnTheRemainder(5,4));
+
+
+function checkIfEven(num) {
+    if(num % 2 === 0){
+        return true;
+    }
+    else{
+        return false;
+    }  
+}
+
+console.log(checkIfEven(47));
